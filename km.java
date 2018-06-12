@@ -1,13 +1,13 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 
-public class Frame extends JFrame {
+public class km extends JFrame {
     public JTextField jtf = new JTextField();
     public JButton jbtn = new JButton("GO");
     public JButton jbtn1 = new JButton("Exit");
     public JLabel label = new JLabel();
 
-    public Frame(){
+    public km(){
         this.ha();
     }
     public void ha(){
